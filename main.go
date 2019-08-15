@@ -1,9 +1,10 @@
 package main
 
 import (
-	"./code"
+	."./code"
 )
 
 func main(){
-	code.FactorialExample(22)
+	//FactorialExample(22)
+	Wave("programmer")
 }
